@@ -1,2 +1,2 @@
 # extrator-url
-Extraindo informações de URLs com Python
+Extracting information from URLs with Python
